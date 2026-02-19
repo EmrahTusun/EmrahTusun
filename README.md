@@ -1,12 +1,10 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=[EMRAH%20TUSUN]&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=[BİLGİSAYAR%20MÜHENDİSİ]&descAlignY=51&descAlign=50" />
+  
+## Hakkımda
+### Selam ben Emrah Yazılım geliştirme ve siber güvenlik disiplinlerini bir araya getirerek güvenli ve ölçeklenebilir teknolojik çözümler üreten bir Bilgisayar Mühendisiyim.
 
-# Selam, ben EMRAH! 👋 
-### Bilgisayar Mühendisi | Yazılım Geliştirici
-
----
-
-## 🐍 GitHub Contribution Snake
+## GitHub Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmrahTusun/EmrahTusun/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmrahTusun/EmrahTusun/output/github-contribution-grid-snake.svg">
