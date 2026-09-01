@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=[EMRAH%20TUSUN]&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=[BİLGİSAYAR%20MÜHENDİSİ]&descAlignY=51&descAlign=50" />
   
 ## Hakkımda
-### Selam ben EMRAH Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. Siber güvenlik alanında kendimi geliştirmeye odaklanıyorum. Linux sistemleri, ağ güvenliği ve olay müdahale konularında deneyim kazanıyor, sızma testleri ve CTF yarışmalarıyla pratik becerilerimi artırıyorum. Python ve modern teknolojilerle projeler geliştiriyor, güvenlik ve performansı ön planda tutuyorum.
+### Selam ben EMRAH Bilgisayar Mühendisliği mezunuyum. Siber güvenlik alanında kendimi geliştirmeye odaklanıyorum. Linux sistemleri, ağ güvenliği ve olay müdahale konularında deneyim kazanıyor, sızma testleri ve CTF yarışmalarıyla pratik becerilerimi artırıyorum. Python ve modern teknolojilerle projeler geliştiriyor, güvenlik ve performansı ön planda tutuyorum.
 ## GitHub Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmrahTusun/EmrahTusun/output/github-contribution-grid-snake-dark.svg">
